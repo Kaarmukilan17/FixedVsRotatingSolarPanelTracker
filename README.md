@@ -1,4 +1,4 @@
-# ☀️ Fixed vs Single axis Rotating Solar Panels — Real-Time Power Comparison
+# Fixed vs Single axis Rotating Solar Panels — Real-Time Power Comparison
 
 A compact system to compare **fixed vs. rotating solar panels** using **Arduino + Python Dashboard**.
 
@@ -50,18 +50,18 @@ SolarTracker-Comparison/
 - `Adafruit_INA219.h`
 
 **Features:**
-- Reads LDRs and applies **offset calibration**  
-  $$
-  \text{offset} = \text{avg}(LDR1) - \text{avg}(LDR2)
-  $$
-- Smooths readings with **Exponential Moving Average (EMA)**  
-  $$
-  S_t = \alpha D_t + (1 - \alpha) S_{t-1}
-  $$
-- Calculates power:  
-  $$
-  P = V \times I
-  $$
+ - Reads LDRs and applies **offset calibration**
+ 
+ ![offset](https://latex.codecogs.com/svg.image?offset%20=%20avg(LDR1)%20-%20avg(LDR2))
+
+- Smooths readings with **Exponential Moving Average (EMA)**
+
+![ema](https://latex.codecogs.com/svg.image?S_t%20=%20\alpha%20D_t%20+%20(1-\alpha)S_{t-1})
+
+-  Calculates power: 
+
+![power](https://latex.codecogs.com/svg.image?P%20=%20V%20\times%20I)
+
 - Sends serial CSV data to Python:
 
 ```
@@ -109,7 +109,7 @@ python dashboard.py
 
 </details>
 
-## 🧱 System Architecture
+## System Architecture
 
 ###  Block Diagram
 
@@ -128,11 +128,8 @@ python dashboard.py
 
 ---
 
-## 👥 Contributors
+## Contributors
 
----
-
-## 👥 Main Contributors
 
 | [![Kaarmukilan A G](https://img.shields.io/badge/KaarmukilanAG-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaarmukilan17) | [![Dhruv Patel](https://img.shields.io/badge/DhruvPatel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvpatel-vit) | [![Souvik Kundu Poddar](https://img.shields.io/badge/SouvikKunduPoddar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souvikkundu23) | [![Sankesh S U](https://img.shields.io/badge/SankeshSU-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankeshsu) |
 |
