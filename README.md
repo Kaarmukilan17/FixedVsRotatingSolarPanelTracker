@@ -51,7 +51,7 @@ SolarTracker-Comparison/
 
 **Features:**
  - Reads LDRs and applies **offset calibration**
- 
+
  ![offset](https://latex.codecogs.com/svg.image?offset%20=%20avg(LDR1)%20-%20avg(LDR2))
 
 - Smooths readings with **Exponential Moving Average (EMA)**
@@ -94,10 +94,9 @@ pandas
 
 * Reads serial data in real-time.
 * Plots **power vs. time** using `PyQtGraph`.
-* Computes power gain:
-  $$
-  \text{Gain(\%)} = \frac{P_{rot} - P_{fixed}}{P_{fixed}} \times 100
-  $$
+* Computes Power Gain:
+      ![Gain Formula](https://latex.codecogs.com/svg.image?\text{Gain(%%)}%20=%20\frac{P_{rot}%20-%20P_{fixed}}{P_{fixed}}%20\times%20100)
+
 * Supports simulation mode if Arduino not connected.
 
 **Run Dashboard:**
