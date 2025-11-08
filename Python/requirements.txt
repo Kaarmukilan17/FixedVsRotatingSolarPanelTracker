@@ -1,0 +1,7 @@
+PyQt5>=5.15
+pyqtgraph>=0.13
+pyserial>=3.5
+pandas>=2.0
+numpy>=1.24
+typing-extensions>=4.5
+dataclasses; python_version < "3.7"
