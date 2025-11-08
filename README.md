@@ -130,7 +130,7 @@ python dashboard.py
 ## Contributors
 
 
-| [![Kaarmukilan A G](https://img.shields.io/badge/KaarmukilanAG-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaarmukilan17) | [![Dhruv Patel](https://img.shields.io/badge/DhruvPatel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvpatel-vit) | [![Souvik Kundu Poddar](https://img.shields.io/badge/SouvikKunduPoddar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souvikkundu23) | [![Sankesh S U](https://img.shields.io/badge/SankeshSU-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankeshsu) |
+| [![Kaarmukilan A G](https://img.shields.io/badge/KaarmukilanAG-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaarmukilan17) | [![Dhruv Patel](https://img.shields.io/badge/DhruvPatel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvpatel-vit) | [![Souvik Kundu Poddar](https://img.shields.io/badge/SouvikKunduPoddar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souvikkundu23) | [![Sankesh S U](https://img.shields.io/badge/SankeshSU-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sankesh005) |
 |
 
 ---
